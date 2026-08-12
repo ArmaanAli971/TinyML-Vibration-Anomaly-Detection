@@ -1,0 +1,17 @@
+file,class,load_hp,rpm,sampling_rate_hz,channel,fault_diameter_in
+B007_0.mat,Ball,0,1797,12000,DE,0.007
+B007_1.mat,Ball,1,1772,12000,DE,0.007
+B007_2.mat,Ball,2,1750,12000,DE,0.007
+B007_3.mat,Ball,3,1730,12000,DE,0.007
+IR007_0.mat,Inner Race,0,1797,12000,DE,0.007
+IR007_1.mat,Inner Race,1,1772,12000,DE,0.007
+IR007_2.mat,Inner Race,2,1750,12000,DE,0.007
+IR007_3.mat,Inner Race,3,1730,12000,DE,0.007
+NORMAL_0.mat,Healthy,0,1797,12000,DE,0.007
+NORMAL_1.mat,Healthy,1,1772,12000,DE,0.007
+NORMAL_2.mat,Healthy,2,1750,12000,DE,0.007
+NORMAL_3.mat,Healthy,3,1730,12000,DE,0.007
+OR007@6_0.mat,Outer Race,0,1797,12000,DE,0.007
+OR007@6_1.mat,Outer Race,1,1772,12000,DE,0.007
+OR007@6_2.mat,Outer Race,2,1750,12000,DE,0.007
+OR007@6_3.mat,Outer Race,3,1730,12000,DE,0.007

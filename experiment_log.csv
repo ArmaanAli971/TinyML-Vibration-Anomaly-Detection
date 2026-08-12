@@ -1,3 +1,6 @@
 Date,Step,Description,Parameters,Result,Notes
 2026-08-08,0,Initial project setup,Git repository + folder structure,Completed,Project repository initialized
 2026-08-09,3,Configured software environment for ESP32 data acquisition,Arduino IDE;ESP32 Arduino core;Adafruit MPU6050;PySerial,Software environment configured,Hardware not yet available; physical sensor verification pending
+2026-08-10,45,CWRU dataset downloaded and organized,"12 kHz Drive-End data; 0.007 inch faults; Healthy, Inner Race, Ball, Outer Race; 0-3 HP","Complete","Official CWRU benchmark data collected and stored in data/raw/CWRU without modifying the raw files."
+2026-08-10,46,CWRU dataset files verified,"16 MATLAB .mat files; DE vibration channel; RPM metadata; 12 kHz sampling rate","Complete","All 16 CWRU recordings verified for readability and required vibration/RPM variables."
+2026-08-10,47,CWRU metadata table created,"16 recordings; 4 classes; 0.007 inch fault diameter; 0-3 HP; 12 kHz; DE channel","Complete","Metadata mapping created for file name, class, load, RPM, sampling rate and channel; saved as data/processed/CWRU/cwru_metadata.csv."
