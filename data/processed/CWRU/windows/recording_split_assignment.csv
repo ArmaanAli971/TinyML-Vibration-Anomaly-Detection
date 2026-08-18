@@ -1,0 +1,18 @@
+split,recording_id,class
+Train,B007_3_X121,Ball
+Train,IR007_0_X105,Inner Race
+Train,IR007_2_X107,Inner Race
+Train,IR007_3_X108,Inner Race
+Train,NORMAL_0_X097,Healthy
+Train,NORMAL_1_X098,Healthy
+Train,NORMAL_2_X098,Healthy
+Train,NORMAL_2_X099,Healthy
+Train,OR007@6_0_X130,Outer Race
+Train,OR007@6_3_X133,Outer Race
+Validation,B007_2_X120,Ball
+Validation,NORMAL_3_X100,Healthy
+Validation,OR007@6_1_X131,Outer Race
+Test,B007_0_X118,Ball
+Test,B007_1_X119,Ball
+Test,IR007_1_X106,Inner Race
+Test,OR007@6_2_X132,Outer Race

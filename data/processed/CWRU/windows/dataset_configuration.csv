@@ -1,0 +1,2 @@
+sampling_frequency_hz,window_duration_seconds,window_samples,overlap,step_size_samples,total_recordings,total_windows,train_windows,validation_windows,test_windows,random_state,split_method,group_column
+12000,1,12000,0.5,6000,17,583,390,117,76,42,GroupShuffleSplit,recording_id
