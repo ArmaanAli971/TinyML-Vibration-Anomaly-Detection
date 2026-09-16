@@ -1,0 +1,4 @@
+Model,Validation Accuracy,Test Accuracy,Test Precision,Test Recall,Test F1
+Random Forest,1.0,1.0,1.0,1.0,1.0
+SVM,1.0,1.0,1.0,1.0,1.0
+Logistic Regression,1.0,1.0,1.0,1.0,1.0

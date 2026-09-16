@@ -1,0 +1,2 @@
+Model,Test_Loss,Test_Accuracy,Test_Precision_Weighted,Test_Recall_Weighted,Test_F1_Weighted
+VAAC-Tiny,0.0024421457201242447,1.0,1.0,1.0,1.0

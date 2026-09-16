@@ -1,0 +1,17 @@
+signal_id,source_file,class,split
+X118,B007_0.mat,Ball,train
+X119,B007_1.mat,Ball,validation
+X120,B007_2.mat,Ball,train
+X121,B007_3.mat,Ball,test
+X097,NORMAL_0.mat,Healthy,train
+X098,NORMAL_1.mat,Healthy,validation
+X099,NORMAL_2.mat,Healthy,train
+X100,NORMAL_3.mat,Healthy,test
+X105,IR007_0.mat,Inner Race,train
+X106,IR007_1.mat,Inner Race,validation
+X107,IR007_2.mat,Inner Race,train
+X108,IR007_3.mat,Inner Race,test
+X130,OR007@6_0.mat,Outer Race,train
+X131,OR007@6_1.mat,Outer Race,validation
+X132,OR007@6_2.mat,Outer Race,train
+X133,OR007@6_3.mat,Outer Race,test
