@@ -1,0 +1,137 @@
+signal_id,window_id,actual_class,cnn_prediction,temporal_prediction,cnn_confidence
+X100,0,Healthy,Healthy,Healthy,0.9999927
+X100,1,Healthy,Healthy,Healthy,0.99999094
+X100,2,Healthy,Healthy,Healthy,0.9999901
+X100,3,Healthy,Healthy,Healthy,0.99999034
+X100,4,Healthy,Healthy,Healthy,0.99998987
+X100,5,Healthy,Healthy,Healthy,0.99998987
+X100,6,Healthy,Healthy,Healthy,0.9999914
+X100,7,Healthy,Healthy,Healthy,0.99999106
+X100,8,Healthy,Healthy,Healthy,0.9999914
+X100,9,Healthy,Healthy,Healthy,0.9999919
+X100,10,Healthy,Healthy,Healthy,0.9999914
+X100,11,Healthy,Healthy,Healthy,0.999992
+X100,12,Healthy,Healthy,Healthy,0.9999912
+X100,13,Healthy,Healthy,Healthy,0.9999924
+X100,14,Healthy,Healthy,Healthy,0.9999932
+X100,15,Healthy,Healthy,Healthy,0.99999356
+X100,16,Healthy,Healthy,Healthy,0.99999404
+X100,17,Healthy,Healthy,Healthy,0.9999939
+X100,18,Healthy,Healthy,Healthy,0.99999404
+X100,19,Healthy,Healthy,Healthy,0.99999547
+X100,20,Healthy,Healthy,Healthy,0.99999595
+X100,21,Healthy,Healthy,Healthy,0.99999654
+X100,22,Healthy,Healthy,Healthy,0.99999595
+X100,23,Healthy,Healthy,Healthy,0.9999943
+X100,24,Healthy,Healthy,Healthy,0.99999464
+X100,25,Healthy,Healthy,Healthy,0.99999356
+X100,26,Healthy,Healthy,Healthy,0.9999924
+X100,27,Healthy,Healthy,Healthy,0.9999924
+X100,28,Healthy,Healthy,Healthy,0.99999213
+X100,29,Healthy,Healthy,Healthy,0.9999932
+X100,30,Healthy,Healthy,Healthy,0.9999933
+X100,31,Healthy,Healthy,Healthy,0.99999344
+X100,32,Healthy,Healthy,Healthy,0.9999932
+X100,33,Healthy,Healthy,Healthy,0.99999213
+X100,34,Healthy,Healthy,Healthy,0.9999908
+X100,35,Healthy,Healthy,Healthy,0.99999
+X100,36,Healthy,Healthy,Healthy,0.9999919
+X100,37,Healthy,Healthy,Healthy,0.9999925
+X100,38,Healthy,Healthy,Healthy,0.9999925
+X100,39,Healthy,Healthy,Healthy,0.9999933
+X100,40,Healthy,Healthy,Healthy,0.99999404
+X100,41,Healthy,Healthy,Healthy,0.99999416
+X100,42,Healthy,Healthy,Healthy,0.99999297
+X100,43,Healthy,Healthy,Healthy,0.999992
+X100,44,Healthy,Healthy,Healthy,0.9999926
+X100,45,Healthy,Healthy,Healthy,0.9999939
+X100,46,Healthy,Healthy,Healthy,0.9999933
+X100,47,Healthy,Healthy,Healthy,0.9999937
+X100,48,Healthy,Healthy,Healthy,0.99999475
+X100,49,Healthy,Healthy,Healthy,0.9999939
+X100,50,Healthy,Healthy,Healthy,0.9999938
+X100,51,Healthy,Healthy,Healthy,0.9999943
+X100,52,Healthy,Healthy,Healthy,0.9999943
+X100,53,Healthy,Healthy,Healthy,0.999995
+X100,54,Healthy,Healthy,Healthy,0.9999945
+X100,55,Healthy,Healthy,Healthy,0.99999416
+X100,56,Healthy,Healthy,Healthy,0.9999939
+X100,57,Healthy,Healthy,Healthy,0.9999914
+X100,58,Healthy,Healthy,Healthy,0.9999925
+X100,59,Healthy,Healthy,Healthy,0.99999356
+X100,60,Healthy,Healthy,Healthy,0.99999404
+X100,61,Healthy,Healthy,Healthy,0.9999949
+X100,62,Healthy,Healthy,Healthy,0.9999938
+X100,63,Healthy,Healthy,Healthy,0.9999924
+X100,64,Healthy,Healthy,Healthy,0.99999166
+X100,65,Healthy,Healthy,Healthy,0.9999924
+X100,66,Healthy,Healthy,Healthy,0.9999927
+X100,67,Healthy,Healthy,Healthy,0.9999926
+X100,68,Healthy,Healthy,Healthy,0.9999926
+X100,69,Healthy,Healthy,Healthy,0.9999908
+X100,70,Healthy,Healthy,Healthy,0.9999907
+X100,71,Healthy,Healthy,Healthy,0.9999902
+X100,72,Healthy,Healthy,Healthy,0.99999106
+X100,73,Healthy,Healthy,Healthy,0.9999931
+X100,74,Healthy,Healthy,Healthy,0.99999356
+X100,75,Healthy,Healthy,Healthy,0.99999297
+X100,76,Healthy,Healthy,Healthy,0.9999933
+X100,77,Healthy,Healthy,Healthy,0.99999344
+X100,78,Healthy,Healthy,Healthy,0.99999094
+X108,0,Inner Race,Inner Race,Inner Race,0.99975723
+X108,1,Inner Race,Inner Race,Inner Race,0.99989605
+X108,2,Inner Race,Inner Race,Inner Race,0.9998734
+X108,3,Inner Race,Inner Race,Inner Race,0.99982375
+X108,4,Inner Race,Inner Race,Inner Race,0.9996302
+X108,5,Inner Race,Inner Race,Inner Race,0.9994911
+X108,6,Inner Race,Inner Race,Inner Race,0.99980897
+X108,7,Inner Race,Inner Race,Inner Race,0.99983776
+X108,8,Inner Race,Inner Race,Inner Race,0.99983203
+X108,9,Inner Race,Inner Race,Inner Race,0.99979323
+X108,10,Inner Race,Inner Race,Inner Race,0.9998011
+X108,11,Inner Race,Inner Race,Inner Race,0.9998241
+X108,12,Inner Race,Inner Race,Inner Race,0.9997819
+X108,13,Inner Race,Inner Race,Inner Race,0.9996995
+X108,14,Inner Race,Inner Race,Inner Race,0.9993338
+X108,15,Inner Race,Inner Race,Inner Race,0.99964774
+X108,16,Inner Race,Inner Race,Inner Race,0.99976856
+X108,17,Inner Race,Inner Race,Inner Race,0.99926716
+X108,18,Inner Race,Inner Race,Inner Race,0.99967813
+X121,0,Ball,Ball,Ball,0.9958307
+X121,1,Ball,Ball,Ball,0.99496317
+X121,2,Ball,Ball,Ball,0.9940398
+X121,3,Ball,Ball,Ball,0.99611986
+X121,4,Ball,Ball,Ball,0.99570185
+X121,5,Ball,Ball,Ball,0.99272996
+X121,6,Ball,Ball,Ball,0.9902109
+X121,7,Ball,Ball,Ball,0.9956098
+X121,8,Ball,Ball,Ball,0.99785346
+X121,9,Ball,Ball,Ball,0.99782926
+X121,10,Ball,Ball,Ball,0.9974274
+X121,11,Ball,Ball,Ball,0.99432856
+X121,12,Ball,Ball,Ball,0.98710304
+X121,13,Ball,Ball,Ball,0.98832
+X121,14,Ball,Ball,Ball,0.98814756
+X121,15,Ball,Ball,Ball,0.98219174
+X121,16,Ball,Ball,Ball,0.98872304
+X121,17,Ball,Ball,Ball,0.99035066
+X121,18,Ball,Ball,Ball,0.9902665
+X133,0,Outer Race,Outer Race,Outer Race,0.98694044
+X133,1,Outer Race,Outer Race,Outer Race,0.98885477
+X133,2,Outer Race,Outer Race,Outer Race,0.9890671
+X133,3,Outer Race,Outer Race,Outer Race,0.989767
+X133,4,Outer Race,Outer Race,Outer Race,0.9889259
+X133,5,Outer Race,Outer Race,Outer Race,0.98844796
+X133,6,Outer Race,Outer Race,Outer Race,0.9923315
+X133,7,Outer Race,Outer Race,Outer Race,0.9928571
+X133,8,Outer Race,Outer Race,Outer Race,0.9916646
+X133,9,Outer Race,Outer Race,Outer Race,0.9921227
+X133,10,Outer Race,Outer Race,Outer Race,0.98899347
+X133,11,Outer Race,Outer Race,Outer Race,0.9897344
+X133,12,Outer Race,Outer Race,Outer Race,0.99242276
+X133,13,Outer Race,Outer Race,Outer Race,0.99080116
+X133,14,Outer Race,Outer Race,Outer Race,0.98871464
+X133,15,Outer Race,Outer Race,Outer Race,0.9905319
+X133,16,Outer Race,Outer Race,Outer Race,0.99249434
+X133,17,Outer Race,Outer Race,Outer Race,0.99153733
+X133,18,Outer Race,Outer Race,Outer Race,0.99154633
