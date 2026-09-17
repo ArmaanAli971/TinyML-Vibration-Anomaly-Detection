@@ -1,0 +1,11 @@
+Metric,Value
+Test Windows,136.0
+Correct Predictions,136.0
+Incorrect Predictions,0.0
+Accuracy,1.0
+Weighted Precision,1.0
+Weighted Recall,1.0
+Weighted F1-Score,1.0
+Mean Confidence,0.9975697294852942
+Minimum Confidence,0.98219174
+Maximum Confidence,0.99999654
