@@ -1,0 +1,11 @@
+Layer,Type,Parameters,Output_Shape,Parameter_Percentage
+vibration_input,InputLayer,0,"(None, 12000, 1)",0.0
+initial_conv,Conv1D,128,"(None, 12000, 16)",3.016022620169651
+scale_3,SeparableConv1D,320,"(None, 12000, 16)",7.5400565504241275
+scale_7,SeparableConv1D,384,"(None, 12000, 16)",9.048067860508954
+scale_15,SeparableConv1D,512,"(None, 12000, 16)",12.064090480678605
+multi_scale_fusion,Concatenate,0,"(None, 12000, 48)",0.0
+feature_refinement,SeparableConv1D,1712,"(None, 12000, 32)",40.33930254476908
+global_average_pooling,GlobalAveragePooling1D,0,"(None, 32)",0.0
+dense_features,Dense,1056,"(None, 32)",24.882186616399622
+classification_output,Dense,132,"(None, 4)",3.1102733270499527

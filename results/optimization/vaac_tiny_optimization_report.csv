@@ -1,0 +1,15 @@
+Metric,Value
+Total Parameters,4244.0
+Trainable Parameters,4244.0
+Non-trainable Parameters,0.0
+FP32 Weight Bytes,16976.0
+FP32 Weight KB,16.578125
+INT8 Estimated Weight Bytes,4244.0
+INT8 Estimated Weight KB,4.14453125
+Theoretical Weight Memory Reduction (%),75.0
+Input Samples,12000.0
+Input Channels,1.0
+FP32 Input Bytes,48000.0
+INT8 Input Bytes,12000.0
+Saved Keras Model Bytes,110838.0
+Saved Keras Model KB,108.240234375
