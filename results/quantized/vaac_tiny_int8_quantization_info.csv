@@ -1,0 +1,12 @@
+Property,Value
+Original Parameters,4244
+Input Shape,"(None, 12000, 1)"
+Output Shape,"(None, 4)"
+Input Dtype,<class 'numpy.int8'>
+Output Dtype,<class 'numpy.int8'>
+Input Scale,0.027604417875409126
+Input Zero Point,-5
+Output Scale,0.00390625
+Output Zero Point,-128
+FP32 Keras File KB,108.240234375
+INT8 TFLite File KB,21.3359375
