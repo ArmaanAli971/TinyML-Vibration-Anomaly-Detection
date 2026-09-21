@@ -1,0 +1,8 @@
+metric,value
+Number of runs,100.0
+Mean latency (ms),2.651557998615317
+Median latency (ms),2.4987999931909144
+Minimum latency (ms),2.084899984765798
+Maximum latency (ms),4.024599969852716
+Standard deviation (ms),0.5002133397486666
+Throughput (inferences/sec),377.13676280971976
