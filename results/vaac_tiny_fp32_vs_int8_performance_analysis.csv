@@ -1,0 +1,11 @@
+Metric,Value
+FP32 Mean Latency (ms),23.63980399852153
+INT8 Mean Latency (ms),2.643269999534823
+FP32 P95 Latency (ms),31.183655001223087
+INT8 P95 Latency (ms),3.589504995034076
+FP32 Throughput (windows/sec),42.30153515919766
+INT8 Throughput (windows/sec),378.31927883870566
+INT8 Speed Ratio,8.943393600609015
+Mean Latency Reduction (%),88.81856211794253
+P95 Latency Reduction (%),88.48914601289269
+Throughput Increase (%),794.3393600609015
